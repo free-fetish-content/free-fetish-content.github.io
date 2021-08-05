@@ -3,7 +3,6 @@ body
     background-color: #353535;
     color: white;
 }
-
 #menu
 {
     background-color: black;
@@ -17,24 +16,20 @@ body
     text-align: center;
     font-size: 26;
 }
-
 table td
 {
     border-color: red;
     border-width: 3;
 }
-
 table tr
 {
     border-color: red;
 }
-
 table a
 {
     color: #FFA500;
     text-decoration: none;  
 }
-
 #p
 {
     text-align: center;
@@ -44,17 +39,14 @@ a
     color: white;
     text-decoration: none;
 }
-
 h1
 {
     color: 	red;
 }
-
 #description
 {
     color: orange;
 }
-
 #top
 {
     color: 	red;
